@@ -2,6 +2,8 @@
 
 
 Link : https://colab.research.google.com/drive/1jZD1zr89SvhbAuTJ4u5MHlQCkonqBVCw#scrollTo=HjiNmVo6ZIdJ
+
+
 This project utilizes the Azure OpenAI API to perform real-time translation of web pages via a Google Colab notebook. By inputting a URL, users can easily translate page content into their chosen language using Azure's powerful language models.
 
 ## Features
